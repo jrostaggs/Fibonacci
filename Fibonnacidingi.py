@@ -13,7 +13,7 @@ def fibPrint(n):
 		print(a)
 	
 
-kCzech=input("Just put a damn number here and see what happens ")
+kCzech=input("Desired Fibonacci term  ")
 number=int(kCzech)
 
 
